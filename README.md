@@ -74,12 +74,14 @@ yolo detect train data=building-detection.yaml model=yolov12n.pt epochs=50 imgsz
 ```
 ---
 ## 🧪 Testing & Inference
+
+```bash
 ### Run inference on an image
 yolo detect predict model=runs/train/exp/weights/best.pt source=sample.jpg
 
 ### Run inference on a video
 yolo detect predict model=runs/train/exp/weights/best.pt source=video.mp4
-
+```
 ---
 ## 📜 License
 This project is licensed under AGPL-3.0.
