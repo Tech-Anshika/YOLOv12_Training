@@ -1,6 +1,3 @@
-![prediction_output3](https://github.com/user-attachments/assets/3faa3498-84c0-45ed-89a4-b9ae07bc150a)
-![prediction_output](https://github.com/user-attachments/assets/56e9137b-0af2-402e-9fda-b96d2756d126)
-![prediction_output 2](https://github.com/user-attachments/assets/170681fd-f063-4da1-971f-e83db073e48e)
 # 🏙️ Building Detection using YOLOv12
 
 ## 📌 Project Overview
@@ -61,6 +58,15 @@ We experimented with three models:
 
 ✅ **Best Model: Roboflow YOLOv12**  
 📌 *Local model also provides mAP@50-95, useful for stricter IoU benchmarks.*
+
+---
+
+## 🖼️ Sample Predictions
+
+### Roboflow YOLOv12 Predictions
+![prediction_output](https://github.com/user-attachments/assets/56e9137b-0af2-402e-9fda-b96d2756d126)  
+![prediction_output 2](https://github.com/user-attachments/assets/170681fd-f063-4da1-971f-e83db073e48e)  
+![prediction_output3](https://github.com/user-attachments/assets/3faa3498-84c0-45ed-89a4-b9ae07bc150a)  
 
 ---
  
