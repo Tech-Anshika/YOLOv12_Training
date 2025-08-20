@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: image-detection-f0jrc
+  project: building-detection-qkcv9
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/dataset/1
