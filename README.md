@@ -27,7 +27,8 @@ We experimented with three models:
 - Precision: **78.2%**  
 - Recall: **69.8%**  
 - Date Trained: *16 Aug 2025*
-- **Roboflow :** [Click here]([https://roboflow.com/your-dataset](https://app.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/models)-link)  
+- **Roboflow:** [Click here](https://app.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/models)
+ 
 
 
 ### 🔹 Model 2 (Roboflow YOLOv12)
