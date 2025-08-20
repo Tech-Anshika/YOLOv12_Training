@@ -26,7 +26,9 @@ We experimented with three models:
 - mAP@50: **77.5%**  
 - Precision: **78.2%**  
 - Recall: **69.8%**  
-- Date Trained: *16 Aug 2025*  
+- Date Trained: *16 Aug 2025*
+- **Roboflow :** [Click here]([https://roboflow.com/your-dataset](https://app.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/models)-link)  
+
 
 ### 🔹 Model 2 (Roboflow YOLOv12)
 - Framework: YOLOv12 Object Detection (Fast)  
@@ -53,7 +55,7 @@ We experimented with three models:
 | Model                     | mAP@50 | Precision | Recall | mAP@50-95 |
 |----------------------------|--------|-----------|--------|-----------|
 | Roboflow v1                | 77.5%  | 78.2%     | 69.8%  | -         |
-| Roboflow YOLOv12 (Best ✅) | 79.1%  | 79.1%     | 71.7%  | -         |
+| Roboflow YOLOv12 (Best ) | 79.1%  | 79.1%     | 71.7%  | -         |
 | Local YOLOv12              | 77.1%  | 77.9%     | 70.2%  | 49.9%     |
 
 ✅ **Best Model: Roboflow YOLOv12**  
