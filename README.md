@@ -27,7 +27,7 @@ We experimented with three models:
 - Precision: **78.2%**  
 - Recall: **69.8%**  
 - Date Trained: *16 Aug 2025*
-- **Roboflow:** [Click here](https://app.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/models)
+- **Roboflow v1:** [Click here](https://app.roboflow.com/image-detection-f0jrc/building-detection-qkcv9/models)
  
 
 
@@ -36,7 +36,9 @@ We experimented with three models:
 - mAP@50: **79.1%**  
 - Precision: **79.1%**  
 - Recall: **71.7%**  
-- Date Trained: *18 Aug 2025*  
+- Date Trained: *18 Aug 2025*
+-  **Roboflow YOLOv12:** [Click here](https://app.roboflow.com/my-projects-jk4cn/building-detection-sr9ws/models)
+
 
 ### 🔹 Model 3 (Local Training YOLOv12)
 - Framework: YOLOv12 (Ultralytics, PyTorch)  
