@@ -67,7 +67,7 @@ We experimented with **three models**:
 
 ---
 
-## ⚙️ Training (Local)
+## ⚙️ Training (Local) 
 
 ```bash
 # Clone YOLOv12
@@ -80,7 +80,10 @@ pip install -r requirements.txt
 # Train YOLOv12
 yolo detect train data=building-detection.yaml model=yolov12n.pt epochs=50 imgsz=640
 
-##  🧪 Testing & Inference
+
+```markdown
+
+## 🧪 Testing & Inference
 
 # Run inference on an image
 yolo detect predict model=runs/train/exp/weights/best.pt source=sample.jpg
