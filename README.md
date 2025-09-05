@@ -1,4 +1,4 @@
-# 🏙️ Building Detection using 
+# 🏙️ Building Detection using YOLOv12
 
 ## 📌 Project Overview
 This project detects **buildings** in images using **YOLOv12**.  
