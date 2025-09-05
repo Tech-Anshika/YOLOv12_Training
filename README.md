@@ -1,4 +1,4 @@
-# 🏙️ Building Detection using YOLOv12
+# 🏙️ Building Detection using 
 
 ## 📌 Project Overview
 This project detects **buildings** in images using **YOLOv12**.  
@@ -104,5 +104,6 @@ This project is licensed under AGPL-3.0.
 ## 👩‍💻 Contributor
 
 - **[Anshika Tyagi](https://github.com/Tech-Anshika)**
+  
 
 
